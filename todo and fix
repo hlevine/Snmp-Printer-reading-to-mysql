@@ -1,0 +1,4 @@
+todo and fix
+1.   Notice that pysnmp does not read the laserjet m521 correctly under windows.  Going to use a snmpget external program in winodws and snmp tool in linux.
+2.  Need to post dat to php webpage as I am finding some sites have port 3306 (mysql) blocked.
+3.  Need to read from external file as at times I can't install software due to group policys.
